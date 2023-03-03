@@ -1,6 +1,5 @@
 {
     "clientJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -9,7 +8,6 @@
         "-Dswing.aatext=true"
     ],
     "launcherJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -18,7 +16,6 @@
     ],
     "buildCommit": "null",
     "launcherJvm11Arguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -98,7 +95,6 @@
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5"
     },
     "launcherJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -107,7 +103,6 @@
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
     "clientJvmArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -118,7 +113,6 @@
         "-Dswing.aatext=true"
     ],
     "launcherArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -128,7 +122,6 @@
         "-XX:+UseParNewGC"
     ],
     "launcherJvm17WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
         "-Xmx1g",
@@ -138,7 +131,6 @@
     ],
     "minimumLauncherVersion": "1.0.0",
     "launcherJvm11WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
         "-Xmx1g",
@@ -146,7 +138,6 @@
         "-XX:CompileThreshold=1500"
     ],
     "clientJvm9Arguments": [
-        "-XX:+DisableAttachMechanism",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -154,7 +145,6 @@
         "-Dswing.aatext=true"
     ],
     "clientJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -166,25 +156,25 @@
     "projectVersion": "1.1.1-SNAPSHOT",
     "artifacts": [
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runescape-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runescape-api-1.1.1-SNAPSHOT.jar",
             "size": 131956,
             "name": "runescape-api-1.1.1-SNAPSHOT.jar",
             "hash": "41e14662c47636aa93e87b3f1a2ad07749db11baf80ebf77767f166e1599904e"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-api-1.1.1-SNAPSHOT.jar",
             "size": 1416109,
             "name": "runelite-api-1.1.1-SNAPSHOT.jar",
             "hash": "5313672dfe56f57fe25cc4137da36ed1f01b8a7f60af2c3570f7f2e84e985e84"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/http-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/http-api-1.1.1-SNAPSHOT.jar",
             "size": 93444,
             "name": "http-api-1.1.1-SNAPSHOT.jar",
             "hash": "770788867b9051476f27d542f189ceba7e33ca7d54ea697dc5cc65e7a4fce1d8"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-jshell-1.1.1-SNAPSHOT.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-jshell-1.1.1-SNAPSHOT.jar",
             "size": 22950,
             "name": "runelite-jshell-1.1.1-SNAPSHOT.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -598,7 +588,7 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-client-1.1.1-SNAPSHOT.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-client-1.1.1-SNAPSHOT.jar",
             "size": 13012573,
             "name": "runelite-client-1.1.1-SNAPSHOT.jar",
             "hash": "603fcb68b1fa800322884cf7048bcff6af230cecd62df7ba27996f9801dadd4d"
