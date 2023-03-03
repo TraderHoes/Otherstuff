@@ -1,0 +1,14 @@
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "1",
+  "description": ".",
+  "id": "1",
+  "releases": [{
+    "date": "2022-08-08",
+    "sha512sum": "",
+    "version": "0.0.7",
+    "url": "https://github.com/TraderHoes/Otherstuff/raw/main/otherotherstuff/1.jar",
+    "requires": ""
+  }]
+}]
