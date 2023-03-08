@@ -166,25 +166,25 @@
     "projectVersion": "1.1.1-SNAPSHOT",
     "artifacts": [
         {
-            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runescape-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runescape-api-1.1.1-SNAPSHOT.jar",
             "size": 131956,
             "name": "runescape-api-1.1.1-SNAPSHOT.jar",
             "hash": "41e14662c47636aa93e87b3f1a2ad07749db11baf80ebf77767f166e1599904e"
         },
         {
-            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-api-1.1.1-SNAPSHOT.jar",
             "size": 1416109,
             "name": "runelite-api-1.1.1-SNAPSHOT.jar",
             "hash": "5313672dfe56f57fe25cc4137da36ed1f01b8a7f60af2c3570f7f2e84e985e84"
         },
         {
-            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/http-api-1.1.1-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/http-api-1.1.1-SNAPSHOT.jar",
             "size": 93444,
             "name": "http-api-1.1.1-SNAPSHOT.jar",
             "hash": "770788867b9051476f27d542f189ceba7e33ca7d54ea697dc5cc65e7a4fce1d8"
         },
         {
-            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-jshell-1.1.1-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-jshell-1.1.1-SNAPSHOT.jar",
             "size": 22950,
             "name": "runelite-jshell-1.1.1-SNAPSHOT.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
