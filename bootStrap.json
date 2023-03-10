@@ -166,25 +166,25 @@
     "projectVersion": "1.1.2",
     "artifacts": [
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runescape-api-1.1.2.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runescape-api-1.1.3.jar",
             "size": 131956,
             "name": "runescape-api-1.1.2.jar",
             "hash": "41e14662c47636aa93e87b3f1a2ad07749db11baf80ebf77767f166e1599904e"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-api-1.1.2.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-api-1.1.3.jar",
             "size": 1416342,
             "name": "runelite-api-1.1.2.jar",
             "hash": "eadd7729d09cb7bab4467d1ccbf6d37edbd7d4735584a49d06d61b75804b8914"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/http-api-1.1.2.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/http-api-1.1.3.jar",
             "size": 96068,
             "name": "http-api-1.1.2.jar",
             "hash": "267429458c66fb20b0b6a92c7eaf2da1ae9d241b077595869efec35873ca36c3"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-jshell-1.1.2.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/stable/runelite-jshell-1.1.3.jar",
             "size": 22950,
             "name": "runelite-jshell-1.1.2.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -598,7 +598,7 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-client-1.1.2.jar",
+            "path": "https://github.com/TraderHoes/Otherstuff/raw/main/runelite-client-1.1.3.jar",
             "size": 13068138,
             "name": "runelite-client-1.1.2.jar",
             "hash": "b7b8a47c4e31bc13b2071c97d91e96ef5f532328b92459e0b55ac21b9cec6f01"
