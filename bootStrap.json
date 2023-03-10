@@ -138,7 +138,7 @@
     ],
     "minimumLauncherVersion": "1.0.0",
     "launcherJvm11WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-ea",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
         "-Xmx1g",
